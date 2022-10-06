@@ -23,4 +23,3 @@ _Figure 1. Docsify Open MultiCourse Starter Kit. Explore a demo at [hibbitts-des
 
 
 
-

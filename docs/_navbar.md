@@ -1,1 +1,3 @@
-* [Contact](contact.md)
+* [Home](home.md) 
+* [About](about.md)
+* [Support](support.md)

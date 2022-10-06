@@ -1,4 +1,4 @@
-[image of ???]
+![[image of ???]](images\hasan-almasi-SpCrTUG2nu8-unsplash.jpg  ':class=banner-image')
 
 # Using Layers and Masks (part 1)
 
@@ -63,4 +63,3 @@ Read one or both of the articles below to get a better understanding of how laye
 
 
 
-[Continue the journey →](course03-krita/module-05-0)

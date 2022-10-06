@@ -14,9 +14,7 @@ ___
 
 **Krita** is a computer software that enables artists to create paintings and illustrations digitally. 
 
-```html
-<span class="soundcite" data-url="https://gabbybaker.github.io/docsify-art-design/docs/assets/audio/krita-pronunciation.wav" data-start="0" data-end="0" data-plays="1">How do I pronounce that?</span>
-```
+**<span class="soundcite" data-url="https://gabbybaker.github.io/docsify-art-design/docs/assets/audio/krita-pronunciation.wav" data-start="0" data-end="0" data-plays="1">How do I pronounce that?</span>**
 
 Digital spaces, just like their analog counterparts, have unique words we use to describe simple objects or processes. Most tutorials online for digital products will use these terms without hesitation; but it can be a lot to take in if you are not already familiar with these terms. That's what this step in the journey is for!
 

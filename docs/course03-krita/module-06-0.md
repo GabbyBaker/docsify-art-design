@@ -1,4 +1,4 @@
-[image of ???]
+![[image of ???]](images\emmanuel-boldo-Td7ITvxdfk8-unsplash.jpg)
 
 # Creating Selections
 
@@ -38,4 +38,3 @@ For this leg of the path, you have one goal:
 
 
 
-[Continue the journey →](course03-krita/module-07-0)

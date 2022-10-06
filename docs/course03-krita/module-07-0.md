@@ -1,4 +1,4 @@
-[image of ???]
+![[image of ???]](images\kelly-sikkema-Rq1MLxP5RgI-unsplash.jpg  ':class=banner-image')
 
 # The World Is Your Oyster
 
@@ -83,4 +83,3 @@ ___
 
 
 
-[Ready for Milestone 2? →](course03-krita/module-08-0)

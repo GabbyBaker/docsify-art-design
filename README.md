@@ -3,6 +3,7 @@
 <a href="https://discord.gg/zT8eS8ZG">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2BYJZU)
 
 # Amen! Courses on Digital Art and Christian Discipleship

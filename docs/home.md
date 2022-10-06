@@ -2,12 +2,13 @@
 
 ---
 
-![](assets\images\alexandru-acea-2S4Z6OQbyjE-unsplash.jpg)
+![](assets\images\alexandru-acea-2S4Z6OQbyjE-unsplash.jpg ':class=banner-image')
 
 
 
+## 🖌 Learning Paths
 
-## 🖌🎨Learning Paths
+___
 
 ### Giving Glory: Art & Discipleship (coming soon!)
 

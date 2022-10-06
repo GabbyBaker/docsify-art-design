@@ -1,6 +1,6 @@
 # My name is <u>Gabrielle Baker</u>, and I <u>design learning experiences</u>.
 
-<img src="C:\Users\Gabby.BRAINWAVE\docsify-art-design\docs\assets\images\Gabrielle Headshot (1).jpg" style="zoom:50%;" />
+![](images\gabby.jpg)
 
 Meet Gabby. Photo Credit: [Georgie Shanice](http://georgieshanice.com/).
 

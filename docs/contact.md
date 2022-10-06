@@ -1,4 +1,5 @@
 # Contact
- 
-Some Name  
-somename@somewhere.edu  
+
+**Gabrielle Baker**  - *I design learning experiences.*
+
+gabby@storydesigns.press 

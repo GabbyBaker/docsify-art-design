@@ -1,24 +1,31 @@
-![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+![Woman and ](images\4642289926_7964e733d1_b.jpg)
 
-# What does a holistic user experience design process look like?
+# What does a digital art creation process look like?
 
-## Summaries and Questions  
-[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
+Once again, we turn to the global web to meet artists who tried out digital art for the first time and shared their experience with the world. 
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-## CPT-363 UX Design Process/Toolkit
-![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
 
-## Downloads
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
+## The Less-than-Impressed
 
-## Assignments
-[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
+PearFleur is the online name for an amateur artist name Ihwa. She works almost exclusively with traditional art mediums. However in this video, she reviews a drawing tablet and gives digital art a try.
 
-## Quick Quiz
-<iframe src="https://h5p.org/h5p/embed/214115" width="728" height="278" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WFpLiXh19iI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
+
+
+One year after this video, she reports:
+
+![image-20221010153830670](C:\Users\Gabby.BRAINWAVE\docsify-art-design\docs\course02-digital-intro\images\image-20221010153830670.png)
+
+
+
+## The Neutral Take
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vr_bxmq5TUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## The NoviEnthusiast
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HJ0Ispb7Wj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

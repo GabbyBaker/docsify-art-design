@@ -1,19 +1,37 @@
-![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+![Anatomy Sketch](images\lavi-perchik-XYK2oHVKuJA-unsplash.jpg ':class=banner-image')
 
-# How to explore the problem space?
+# Where do I go from here?
 
-## Summaries and Questions  
-[May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377745)
+So you *know* a lot about digital art now: except how to do it. Maybe you are not even sure if you want to step into the digital art space. The good news is tht many artists have gone before you and can offer advice and guidance to support you in your decision.
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+___
 
-## Supplemental Materials  
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/MwidSAlbEB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Tips for Beginners
 
-## Downloads
-[4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-browsers)  
-[4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-mobiles)  
+One digital artist that you need to meet is [Sara Tepes](https://www.sarucatepes.com/)! She is well-versed in the digital painting software Krita, which you can learn about in the course [Digital Art with Krita](docs/course03-krita/home.md). In this video, she shares five things that she wish she had known before starting digital art.
 
-## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LELiTOdIBEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Diving into digital art means learning a whole new approach to art. Brad Colbow (remember his introduction to tools and software earlier on?) offers some foundational tips for drawing on a digital canvas.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WLU26nqcvfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+[**Bonus Tip! Don't try to draw / paint / create in a single session.**](https://www.youtube.com/watch?v=hd2il6ND-1E)
+
+
+
+## Are you a traditional artist?
+
+When you make the switch, all will not seem well. Aaron Rutten shares tips on how to transition from physical to digital mediums and what to expect on the journey.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9JJraJfmqdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Final Charge
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DTdll3JW51A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,4 +1,4 @@
-![Welcome sign](C:\Users\Gabby.BRAINWAVE\docsify-art-design\docs\course02-digital-intro\images\pexels-cottonbro-3826678.jpg ':class=banner-image')
+![Welcome sign](C:\Users\Gabby.BRAINWAVE\docsify-art-design\docs\course03-krita\images\pexels-cottonbro-3826678.jpg)
 
 # Welcome to DIGITAL ART WITH KRITA
 

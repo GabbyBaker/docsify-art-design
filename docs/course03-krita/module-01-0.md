@@ -64,13 +64,13 @@ What if you learn that you can't install the program? There may be another way.
 
 **Follow this guide:** 
 
-[Loom screen recording of navigating to old versions of Krita]
+<iframe src="https://share.descript.com/embed/LUl7jR4yGij" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 
 
 
-Now it's time to download!
+### Now it's time to download!
 
 **Follow this guide:**
 

@@ -42,6 +42,8 @@ ___
 
 14. **The World is Your Oyster: Open Practice Session**
 
+___
+
 ## Milestone 3: Refining and Enhancing Art
 
 15. Using the liquify tool
